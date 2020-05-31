@@ -19,6 +19,12 @@ I tried to look at some terms related to humour/wit. The one thing I found was t
 
 I picked the 13th topic I found and made of graph using the top 10-ranked docs in that topic.
 
+**Topic Modelling in R Studio**
+
+[topic model graph with 20 topics](20_topics_over_time.png)
+
+I tried rerunning the topic modelling asking for 20 topics. The large light green section (wi love ye heart thy thee sae) seems pretty significant, although I can't really tell how what the topic is, other than it is something about love. But how is it different from "love dear i’ll heart fair lady true"?
+
 ## Errors
 `No such file or directory. No urls found`
 
