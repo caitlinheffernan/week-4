@@ -4,6 +4,7 @@
 Voyant corpus ID: https://voyant-tools.org/?corpus=34e9791a8b147957f44df998456dab50
 <iframe style='width: 637px; height: 163px;' src='https://voyant-tools.org/tool/Phrases/?query=free&corpus=34e9791a8b147957f44df998456dab50'></ifra
   me>
+
 The above section is interesting because it shows different groups of usage for the word "free":  relating to slavery, press, or passages.
 
 <iframe style='width: 564px; height: 335px;' src='https://voyant-tools.org/tool/Trends/?stopList=keywords-f0753fd4410091128048053659509d49&query=faddy&query=fad*&query=fad&query=%22new%20toys*%22&query=bear&query=bears&query=craze*&mode=&chartType=line&corpus=48d327dd945f1331190cc3dc30fb560f'></iframe>
