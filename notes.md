@@ -1,4 +1,4 @@
-## Notes
+# Notes
 **Voyant**
 
 Voyant corpus ID: https://voyant-tools.org/?corpus=34e9791a8b147957f44df998456dab50
@@ -10,7 +10,13 @@ The above section is interesting because it shows different groups of usage for 
 
 I wanted to see if, when newspapers wrote about teddy bears, if they often wrote about them in terms of them being "fads." I figured if this were the case, the same newspapers with peaks in mentioning "bear" or "bears" would have similar (although smaller) peaks in words relating to "fad." This seems to be the case for the San Francisco Call, The Sun, and the Minneapolis Journal. 
 
-# Errors
+**AntConc**
+I tried to look at some terms related to humour/wit. The one thing I found was that this may be a good way to locate characters or archtypes. For example, when I searched for "witty" there were many instances of "Witty Eppie, the ale-wife." Maybe seaching for other adjectives would find different characters described this way. 
+
+**TopicModelingTool**
+I picked the 13th topic I found and made of graph using the top 10-ranked docs in that topic.
+
+## Errors
 `No such file or directory. No urls found`
 
 https://askubuntu.com/questions/1190692/error-when-using-wget-to-download-a-list-of-urls-in-a-txt-file
